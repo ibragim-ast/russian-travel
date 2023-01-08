@@ -1,5 +1,5 @@
 .footer {
-    max-width: 1184px;
+    max-width: 928px;
     display: grid;
     grid-template-columns: 50% 50%;
     grid-template-rows: 100%;
@@ -8,6 +8,6 @@
 
 @media screen and (max-width: 768px) {
     .footer {
-        padding-top: 64px;
+        max-width: 720px;
     }
 }

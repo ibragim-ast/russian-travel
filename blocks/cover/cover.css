@@ -23,8 +23,10 @@
     opacity: .8;
 }
 
+
 @media screen and (max-width: 768px) {
     .cover {
         grid-gap: 16px;
+        margin-bottom: 88px;
     }
 }
