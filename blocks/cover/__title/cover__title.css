@@ -29,6 +29,8 @@
     .cover__title {
         font-size: 32px;
         line-height: 35px;
-        margin: 32px auto 16px;
+        padding-top: 33px;
+        padding-bottom: 16px;
+        margin: 0 auto;
     }
 }

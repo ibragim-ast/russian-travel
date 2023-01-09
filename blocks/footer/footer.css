@@ -2,7 +2,6 @@
     max-width: 1184px;
     display: grid;
     grid-template-columns: 50% 50%;
-    grid-template-rows: 100%;
     margin: 89px auto 24px;
 }
 
@@ -15,5 +14,13 @@
 @media screen and (max-width: 768px) {
     .footer {
         max-width: 720px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .footer {
+        max-width: 288px;
+        grid-template-columns: 100%;
+        margin-top: 0;
     }
 }
