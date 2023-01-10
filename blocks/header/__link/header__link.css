@@ -8,9 +8,16 @@
     vertical-align: super;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 425px) {
     .header__link {
         font-size: 18px;
         line-height: 20px;
     }
 }
+
+/* @media screen and (max-width: 320px) {
+    .header__link {
+        font-size: 18px;
+        line-height: 20px;
+    }
+} */

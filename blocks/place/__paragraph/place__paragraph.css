@@ -22,6 +22,6 @@
     .place__paragraph {
         max-width: 288px;
         margin: 0 auto 25px;
-        line-height: 164%;
+        line-height: 26px;
     }
 }
