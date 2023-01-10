@@ -8,7 +8,7 @@
 
 @media screen and (max-width: 768px) {
     .lead__caption {
-        max-width: 720px;
+        max-width: 94%;
         margin: 0 auto;
     }
 }
