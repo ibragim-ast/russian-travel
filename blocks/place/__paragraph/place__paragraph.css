@@ -2,6 +2,7 @@
     font-weight: 400;
     font-size: 18px;
     line-height: 162%;
+    text-align: left;
     margin-top: 0;
     margin-bottom: 27px;
 }
@@ -12,15 +13,22 @@
 
 @media screen and (max-width: 768px) {
     .place__paragraph {
+        margin: 0 auto;
         font-size: 16px;
         line-height: 163%;
         margin-bottom: 22px;
     }
 }
 
+@media screen and (max-width: 767px) {
+    .place__paragraph {
+        max-width: 90%;
+        margin: 32px 16px 0;
+    }
+}
+
 @media screen and (max-width: 320px) {
     .place__paragraph {
-        max-width: 288px;
         margin: 0 auto 25px;
         line-height: 26px;
     }
