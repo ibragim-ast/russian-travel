@@ -14,22 +14,17 @@
 @media screen and (max-width: 1024px) {
     .cover__title {
         padding-top: 195px;
-        padding-bottom: 32px;
     }
 }
 
 @media screen and (max-width: 768px) {
     .cover__title {
         padding-top: 115px;
-        padding-bottom: 32px;
-        font-size: 72px;
-        line-height: 76px;
     }
 }
 
 @media screen and (max-width: 767px) {
     .cover__title {
-        padding-top: 115px;
         padding-bottom: 16px;
         font-size: 32px;
         line-height: 35px;
@@ -39,17 +34,11 @@
 @media screen and (max-width: 425px) {
     .cover__title {
         max-width: 250px;
-        font-size: 32px;
-        line-height: 35px;
     }
 }
 
 @media screen and (max-width: 320px) {
     .cover__title {
-        font-size: 32px;
-        line-height: 35px;
         padding-top: 33px;
-        padding-bottom: 16px;
-        margin: 0 auto;
     }
 }

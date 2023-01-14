@@ -5,15 +5,21 @@
     margin: 0 auto 24px;
 }
 
+@media screen and (max-width: 1280px) {
+    .footer {
+        max-width: 92.5%;
+    }
+}
+
 @media screen and (max-width: 1024px) {
     .footer {
-        max-width: 928px;
+        max-width: 90.7%;
     }
 }
 
 @media screen and (max-width: 768px) {
     .footer {
-        max-width: 720px;
+        max-width: 93.7%;
     }
 }
 
@@ -21,11 +27,5 @@
     .footer {
         max-width: 90%;
         grid-template-columns: 100%;
-    }
-}
-
-@media screen and (max-width: 320px) {
-    .footer {
-        max-width: 288px;
     }
 }
