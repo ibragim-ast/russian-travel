@@ -1,38 +1,38 @@
 .cover__subtitle {
-    margin: 0 auto 245px;
-    max-width: 360px;
-    font-size: 18px;
-    line-height: 22px;
-    font-weight: 400;
-    text-align: center;
-    grid-row: 2;
-    z-index: 2;
-    justify-self: center;
+  margin: 0 auto 245px;
+  max-width: 360px;
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 400;
+  text-align: center;
+  z-index: 2;
+  justify-self: center;
+  position: relative;
 }
 
 @media screen and (max-width: 1024px) {
-    .cover__subtitle {
-        margin-bottom: 195px;
-    }
+  .cover__subtitle {
+    margin-bottom: 195px;
+  }
 }
 
 @media screen and (max-width: 768px) {
-    .cover__subtitle {
-        margin-bottom: 115px;
-    }
+  .cover__subtitle {
+    margin-bottom: 115px;
+  }
 }
 
 @media screen and (max-width: 767px) {
-    .cover__subtitle {
-        max-width: 272px;
-        font-size: 14px;
-        line-height: 16px;
-    }
+  .cover__subtitle {
+    max-width: 272px;
+    font-size: 14px;
+    line-height: 16px;
+  }
 }
 
 @media screen and (max-width: 320px) {
-    .cover__subtitle {
-        margin-bottom: 0px;
-        padding-bottom: 33px;
-    }
+  .cover__subtitle {
+    margin-bottom: 0px;
+    padding-bottom: 33px;
+  }
 }
