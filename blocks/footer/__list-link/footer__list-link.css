@@ -1,5 +1,11 @@
 @media screen and (max-width: 767px) {
-    .footer__list-link {
-        margin-bottom: 32px;
-    }
+  .footer__list-link {
+    margin-bottom: 32px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .footer__list-link:nth-child(5) {
+    margin-bottom: 48px;
+  }
 }
