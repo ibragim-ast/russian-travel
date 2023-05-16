@@ -1,5 +1,5 @@
 # Проект: Путешествие по России.
-Учебный проект ["Путешествие по России"]([https://ibragim-ast.github.io/mesto/](https://ibragim-ast.github.io/russian-travel/) реализован в рамках специализации "Веб-разработчик" в [Я.Практикум](https://practicum.yandex.ru/).
+Учебный проект ["Путешествие по России"](https://ibragim-ast.github.io/russian-travel/) реализован в рамках специализации "Веб-разработчик" в [Я.Практикум](https://practicum.yandex.ru/).
 
 Данный сайт посвящен путешествиям по стране
 
