@@ -20,7 +20,7 @@
 1. Склонируйте репозиторий на локальную машину: `git clone https://github.com/your-username/russian-travel.git`
 2. Откройте файл index.html в любом совместимом веб-браузере.
 
-Демо
+## Демо  
 Вы можете посмотреть демонстрацию проекта "Путешествие по России" по ссылке: https://ibragim-ast.github.io/russian-travel/
 
 
